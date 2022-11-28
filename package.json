@@ -1,9 +1,9 @@
 {
-  "name": "layer0-umijs-example",
+  "name": "edgio-umijs-example",
   "scripts": {
-    "layer0:dev": "layer0 dev",
-    "layer0:build": "layer0 build",
-    "layer0:deploy": "layer0 deploy",
+    "edgio:dev": "edgio dev",
+    "edgio:build": "edgio build",
+    "edgio:deploy": "edgio deploy",
     "start": "umi dev",
     "build": "umi build",
     "postinstall": "umi generate tmp",
@@ -18,10 +18,10 @@
     "umi": "^3.5.20"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.13.9",
-    "@layer0/core": "^4.13.9",
-    "@layer0/devtools": "^4.13.9",
-    "@layer0/prefetch": "^4.13.9",
+    "@edgio/cli": "^5.0.4",
+    "@edgio/core": "^5.0.4",
+    "@edgio/devtools": "^5.0.4",
+    "@edgio/prefetch": "^5.0.4",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@umijs/preset-react": "1.x",
